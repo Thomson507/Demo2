@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Framework_devV1">
+  <test name="FrameworkTest">
+		<parameter name = "browser" value = "firefox" />
+    <classes>
+      <class name="com.Framework_dev.Testcases.TC_LoginTest_001"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
